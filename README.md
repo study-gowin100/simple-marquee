@@ -16,3 +16,8 @@ The project uses the [Adafruit NeoPixel Library](https://github.com/adafruit/ada
 
 # License
 The [original license of Adafruit NeoPixel Library](https://github.com/adafruit/adafruit_neopixel?tab=LGPL-3.0-1-ov-file).
+
+# Demostration
+Please watch the [YouTube video](https://www.youtube.com/watch?v=mbCUpNAOa5U).
+
+[![LED Acrylic Lithography Module for Breadboards and Arduino](https://img.youtube.com/vi/mbCUpNAOa5U/maxresdefault.jpg)](https://www.youtube.com/watch?v=mbCUpNAOa5U)
