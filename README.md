@@ -10,7 +10,7 @@ This is a PlatformIO project. Please refer to the [platformio.ini](https://githu
 ## Hardware
 An Arduino UNO development board, an 8-LED WS2812 module, and some jumper wires.
 
-![Alt text](media/image1.jpg)![Alt text](media/image2.jpg)![Alt text](media/image3.jpg)![Alt text](media/image4.jpg)![Alt text](media/image5.jpg)![Alt text](media/image6.jpg)
+![Alt text](media/image1.jpg)![Alt text](media/image2.JPG)![Alt text](media/image3.JPG)![Alt text](media/image4.JPG)![Alt text](media/image5.JPG)![Alt text](media/image6.JPG)
 
 ### Connection
 Use breadboard jumpers to connect the VCC of the WS2812 to the 5V of the Arduino, GND to GND, and DATA IN to A0 (PIN 14).
