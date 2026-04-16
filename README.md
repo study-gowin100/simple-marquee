@@ -2,14 +2,20 @@
 A simple NeoPixel test program using non-blocking timers.
 This is a simple marquee program used to test a WS2812 LED module. It makes each LED light up in turn and loops continuously. The program does not use a "for" loop, but instead uses a "non-blocking timer" check to accumulate values, in order to avoid blocking the main loop.
 
+![Alt text](media/video.gif)
+
 # Installation
 This is a PlatformIO project. Please refer to the [platformio.ini](https://github.com/study-gowin100/simple-marquee/blob/main/platformio.ini) file for details.
 
 ## Hardware
 An Arduino UNO development board, an 8-LED WS2812 module, and some jumper wires.
 
+![Alt text](media/image1.jpg)![Alt text](media/image2.jpg)![Alt text](media/image3.jpg)![Alt text](media/image4.jpg)![Alt text](media/image5.jpg)![Alt text](media/image6.jpg)
+
 ### Connection
 Use breadboard jumpers to connect the VCC of the WS2812 to the 5V of the Arduino, GND to GND, and DATA IN to A0 (PIN 14).
+
+![Alt text](media/arduino_connect-edited.png)
 
 ### Verification
 Install the PLATFORMIO extension module in VS Code and open the project folder. Click Build or Upload on the toolbar.
